@@ -1,8 +1,8 @@
-# Amz_dsktop_laptop_price_monitor
+# Web Scraping Amazon website
 
-# Desktop version for daily monitoring HP laptop price in amazon from 30 Oct 2021
+### Desktop version for daily monitoring HP laptop price in amazon from 30 Oct 2021
 
-# NOTE: As on Dec 20 this code won't work because amazon has changed the coding on displaying the product information particularly “price” details.
+### NOTE: As on Dec 20 this code won't work because amazon has changed the coding on displaying the product information particularly “price” details.
 
 In my code, you can see that I used to track the product price using "span id" which used to fetch the product price, this way I was able to track the product price and was able to analyse the variation of specific product details. Since the change in the coding of AMZON website my program is not able to capture the “span #” hence its throwing the error.
 
